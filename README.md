@@ -15,4 +15,4 @@ Mod made using MCreator.
 
 
 
-You can write your issues here and I will try to fix them!
+You can write your issues on github and I will try to fix them!
