@@ -13,3 +13,6 @@ This mod will get regular updates, adding new content or updating to newer versi
 
 Mod made using MCreator.
 
+
+
+You can write your issues here and I will try to fix them!
