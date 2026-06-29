@@ -1,4 +1,4 @@
-NOTE: If you want to see the mod's source code look at the [latest](https://github.com/MrBlob37/MrBlob37-s-Life-Crystals/releases/latest) release!
+## **NOTE: If you want to see the mod's source code look at the [latest](https://github.com/MrBlob37/MrBlob37-s-Life-Crystals/releases/latest) release!**
 
 Mod which gives ability to gain more hearts.
 
